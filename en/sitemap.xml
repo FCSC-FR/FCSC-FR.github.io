@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fcsc.fr/en/</loc>
+    <loc>https://www.fcsc.fr/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fcsc.fr/fr/"
+                href="https://www.fcsc.fr/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fcsc.fr/en/"
+                href="https://www.fcsc.fr/en/"
                 />
   </url><url>
-    <loc>https://fcsc.fr/en/shrimped/</loc>
+    <loc>https://www.fcsc.fr/en/shrimped/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fcsc.fr/fr/shrimped/"
+                href="https://www.fcsc.fr/fr/shrimped/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://fcsc.fr/en/shrimped/"
+                href="https://www.fcsc.fr/en/shrimped/"
                 />
   </url>
 </urlset>
